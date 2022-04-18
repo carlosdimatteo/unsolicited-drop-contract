@@ -1,6 +1,6 @@
 # Air drop Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+this contract is for airdropping an erc1155 NFT to a set of addresses , useful for on chain signaling or membership identification
 
 Try running some of the following tasks:
 
